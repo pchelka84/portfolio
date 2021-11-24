@@ -9,6 +9,7 @@ export default function App() {
   return (
     <main className='text-gray-500 body-font'>
       <About />
+      <Projects />
     </main>
   );
 }
