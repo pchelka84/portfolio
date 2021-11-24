@@ -10,6 +10,7 @@ export default function App() {
     <main className='text-gray-500 body-font'>
       <About />
       <Projects />
+      <Skills />
     </main>
   );
 }

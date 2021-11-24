@@ -67,10 +67,17 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "HTML, HTML5",
+  "CSS, CSS3, SASS",
+  "Bootstrap 4, Tailwindcss",
+  "Git, GitHub",
+  "JavaScript, ES6",
+  "JS Frameworks: React",
+  "jQuery",
+  "TypeScript (beginner)",
+  "Java (beginner)",
+  "Testing Freameworks: Jasmine, Cucumber",
+  "Algorithms & Data Structures",
+  "Software: Adobe Photoshop",
+  "SEO Techniques & Principles",
 ];
