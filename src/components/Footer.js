@@ -11,10 +11,10 @@ export default function Footer() {
           </a>
         </p>
         <p className='mb-1 text-sm'>
-          Powered by <i className='fas fa-heart animate-pulse text-red-50'></i>{" "}
+          Powered by <i className='fas fa-heart animate-pulse text-red-100'></i>{" "}
           and <i className='fas fa-coffee'></i>.
         </p>
-        <p className='mb-1 text-sm'>
+        <p className='mb-1 text-xs'>
           <LocationMarkerIcon className='inline text-gray-400 w-6 align-text-bottom pr-1' />
           New York City, NY
         </p>
