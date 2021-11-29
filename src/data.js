@@ -1,51 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "E-commerce App",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "#",
+      "E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase.",
+    image: "./p1-ecommerce.JPG",
+    link: "https://github.com/pchelka84/e-commerce-app",
+  },
+  // {
+  //   title: "React Tracks",
+  //   subtitle: "React and Python",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./ecommerce.JPG",
+  //   link: "#",
+  // },
+  {
+    title: "Calculator",
+    subtitle: "Vanilla JavaScript",
+    description:
+      "A basic on-screen calculator build with Vanilla JavaScript, HTML, and CSS. The calculator performs the basic math operatorations.",
+    image: "./p2-caclulator.JPG",
+    link: "https://github.com/pchelka84/calculator",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "ROCK PAPER SCISSORS",
+    subtitle: "Vanilla JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "#",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "#",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "#",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "#",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "#",
+      "The responsive game ROCK PAPER SCISSORS build with Vanilla JavaScript, HTML, and CSS. A player plays against computer and need to earn 5 points first to win.",
+    image: "./p3-rockPaper-Scissors.JPG",
+    link: "https://github.com/pchelka84/rock_paper_scissors",
   },
 ];
 
