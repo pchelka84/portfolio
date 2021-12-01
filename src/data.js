@@ -3,18 +3,26 @@ export const projects = [
     title: "E-commerce App",
     subtitle: "React",
     description:
-      "E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase.",
+      "E-commerce app build with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase.",
     image: "./p1-ecommerce.JPG",
     link: "https://github.com/pchelka84/e-commerce-app",
   },
-  // {
-  //   title: "React Tracks",
-  //   subtitle: "React and Python",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./ecommerce.JPG",
-  //   link: "#",
-  // },
+  {
+    title: "NYC Jazz Venus App",
+    subtitle: "React",
+    description:
+      "A simple NYC jazz venues app build with React, react-google-maps, Google Maps API, Foursqaure API, Bootstrap 4, Fontawesome, SnazzyMaps.",
+    image: "./p4-nycjazzvenues.JPG",
+    link: "https://github.com/pchelka84/nycjazzclubs-map",
+  },
+  {
+    title: "My Reads App",
+    subtitle: "React",
+    description:
+      "My Reads App allows to perform books search, allows placing books to 'Currently reading', 'Read', and 'Want to read' shelves. Build with React, and Udacity's BooksAPI.",
+    image: "./p5-myreads.JPG",
+    link: "https://github.com/pchelka84/MyReads",
+  },
   {
     title: "Calculator",
     subtitle: "Vanilla JavaScript",
@@ -30,6 +38,14 @@ export const projects = [
       "The responsive game ROCK PAPER SCISSORS build with Vanilla JavaScript, HTML, and CSS. A player plays against computer and need to earn 5 points first to win.",
     image: "./p3-rockPaper-Scissors.JPG",
     link: "https://github.com/pchelka84/rock_paper_scissors",
+  },
+  {
+    title: "Memory Game",
+    subtitle: "Vanilla JavaScript",
+    description:
+      "The Classic Memory Game app build with Vanilla JavaScript, HTML, Bootstrap, Animate CSS. Find all matches with the highest star rating possible.",
+    image: "p6-memorygame.JPG",
+    link: "https://github.com/pchelka84/memory-game",
   },
 ];
 
