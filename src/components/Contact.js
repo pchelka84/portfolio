@@ -31,6 +31,7 @@ export default function Contact() {
             <a
               href='https://www.linkedin.com/in/evgeniya-v-47aa00174/'
               target='_blank'
+              rel='noopener noreferrer'
               className='animate-pulse hover:text-blue-700'
             >
               <i className='fab fa-linkedin text-3xl'></i>
@@ -40,6 +41,7 @@ export default function Contact() {
             <a
               href='https://github.com/pchelka84'
               target='_blank'
+              rel='noopener noreferrer'
               className='animate-pulse hover:text-blue-700'
             >
               <i className='fab fa-github text-3xl'></i>

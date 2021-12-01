@@ -7,11 +7,11 @@ export default function Navbar() {
   return (
     <header className='bg-gray-800 md:sticky top-0 z-10'>
       <div className='container mx-auto flex flex-wrap px-5 flex-col md:flex-row items-center'>
-        <a className='title-font font-medium text-white md:mb-6 mb-3'>
+        <div className='title-font font-medium text-white md:mb-6 mb-3'>
           <a href='#about' className='ml-3 text-xl'>
             <ChipIcon className='w-4 h-4' />
           </a>
-        </a>
+        </div>
         <nav className='md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700 text-white flex flex-wrap items-center text-base justify-center'>
           <a href='#projects' className='mr-5 hover:text-gray-400'>
             Portfolio
